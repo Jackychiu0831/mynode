@@ -1,0 +1,2 @@
+# mynode
+for docker practice
